@@ -4,12 +4,12 @@
 <a href="https://packagist.org/packages/tcg/voyager"><img src="https://poser.pugx.org/tcg/voyager/license.svg?format=flat" alt="License"></a>
 <a href="https://github.com/larapack/awesome-voyager"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Voyager"></a>
 </p>
-<div align="center">
+
 ![shop Screenshot](public/storage/readme/home.png)
 ![shop Screenshot](public/storage/readme/product.png)
 ![shop Screenshot](public/storage/readme/profile.png)
 ![shop Screenshot](public/storage/readme/voyager.png)
-</div>
+
 
 Website & Documentation: https://github.com/c2guru/shopping-cart-voyager.git
 
